@@ -1,0 +1,16 @@
+debug/game.o
+debug/main.o
+debug/musicmanager.o
+debug/rule.o
+debug/widget.o
+debug/Attacker.o
+debug/Character.o
+debug/Ghost.o
+debug/Lattice.o
+debug/Map.o
+debug/qrc_images.o
+debug/moc_game.o
+debug/moc_rule.o
+debug/moc_widget.o
+debug/moc_Character.o
+debug/moc_Map.o

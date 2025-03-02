@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>img/first_bg.png</file>
+        <file>img/game1.png</file>
+        <file>img/bg1.jpg</file>
+        <file>img/select.png</file>
+        <file>img/rule.png</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>img/play.png</file>
+        <file>img/ruleButton.png</file>
+        <file>img/quit.png</file>
+        <file>img/start.png</file>
+        <file>img/ExportMap.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/BGMusic.mp3</file>
+    </qresource>
+    <qresource prefix="/grid">
+        <file>img/grid.png</file>
+    </qresource>
+    <qresource prefix="/item">
+        <file>img/carrot.png</file>
+        <file>img/num0.png</file>
+        <file>img/num1.png</file>
+        <file>img/num4.png</file>
+        <file>img/num5.png</file>
+        <file>img/num8.png</file>
+        <file>img/num9.png</file>
+        <file>img/num2.png</file>
+        <file>img/num6.png</file>
+        <file>img/num3.png</file>
+        <file>img/num7.png</file>
+        <file>img/tower1.png</file>
+        <file>img/tower2.png</file>
+        <file>img/towerSet1.png</file>
+        <file>img/towerSet2.png</file>
+        <file>img/ghost1.png</file>
+        <file>img/attack1.png</file>
+        <file>img/attack2.png</file>
+        <file>img/loadIn.png</file>
+        <file>img/icon.png</file>
+        <file>img/update.png</file>
+        <file>img/protection.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,16 @@
+release/game.o
+release/main.o
+release/musicmanager.o
+release/rule.o
+release/widget.o
+release/Attacker.o
+release/Character.o
+release/Ghost.o
+release/Lattice.o
+release/Map.o
+release/qrc_images.o
+release/moc_game.o
+release/moc_rule.o
+release/moc_widget.o
+release/moc_Character.o
+release/moc_Map.o
